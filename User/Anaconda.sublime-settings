@@ -1,0 +1,10 @@
+{
+	"anaconda_linter_mark_style":"none",
+	"pep8_ignore":
+    [
+        "E309",
+        "W191"
+
+    ],
+
+}

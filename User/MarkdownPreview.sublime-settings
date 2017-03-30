@@ -1,0 +1,8 @@
+{
+    "enable_mathjax": true,
+    "enabled_extensions": [
+        "extra",
+        "github",
+        "codehilite(guess_lang=False,pygments_style=github)"
+    ]
+}

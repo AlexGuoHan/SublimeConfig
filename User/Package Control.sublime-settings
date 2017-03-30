@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"All Autocomplete",
+		"Anaconda",
+		"AutoDocstring",
+		"Boxy Theme",
+		"Boxy Theme Addon - Font Face",
+		"Boxy Theme Addon - Widget Font Size",
+		"Djaneiro",
+		"Django",
+		"Ginkgo Completions",
+		"Glue",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"MarkdownTOC",
+		"Package Control",
+		"PlainNotes",
+		"requirementstxt",
+		"SideBarEnhancements",
+		"SublimeREPL"
+	]
+}
